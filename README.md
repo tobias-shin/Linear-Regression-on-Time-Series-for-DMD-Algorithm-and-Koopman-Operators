@@ -1,4 +1,4 @@
-This is a directed reading program (DRP) project done with an undergraduate at the University of Chicago.
+This is a directed reading program (DRP) project done with Sean Kook at the University of Chicago.
 The project focuses on understanding the trading strategy described by the paper "Dynamic Mode Decomposition for Financial Trading Strategies" 
 by Jordan Mann and J. Nathan Kutz (2015). The idea of the paper is to linearly approximate the next sample state in a nonlinear dynamical system.
 This is done in theory with composition (Koopman) operators. The trading strategy is to apply this to time series data, using the dynamic mode decomposition (DMD) algorithm.
